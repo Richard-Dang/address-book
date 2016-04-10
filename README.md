@@ -12,10 +12,10 @@ required to enter one of four fields in order to add a new record. Only .xyz fil
 may be opened and users cannot save blank address books.
 
 ##Features
-*Full Java documentation
-*Class UML
-*Create, open, and delete database files
-*Add, update, traverse, delete and view current/total records
-*Automatic formating email and phone number entries
-*Custom file extension and file manager
+* Full Java documentation
+* Class UML
+* Create, open, and delete database files
+* Add, update, traverse, delete and view current/total records
+* Automatic formating email and phone number entries
+* Custom file extension and file manager
 
