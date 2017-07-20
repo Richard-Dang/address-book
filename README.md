@@ -1,6 +1,6 @@
-#Address Book
+# Address Book
 
-##Description
+## Description
 A database program in the form of an address book which allows users to create, open, and save
 address books. Users may create one address book at a time and may add or modify records in it which
 consist of four entry fields: first name, last name, email and phone number. They can also move back and 
@@ -11,7 +11,7 @@ names and phone numbers will automatically be formatted by the program according
 required to enter one of four fields in order to add a new record. Only .xyz files created by this program
 may be opened and users cannot save blank address books.
 
-##Features
+## Features
 * Full Java documentation
 * Class UML
 * Create, open, and delete database files
