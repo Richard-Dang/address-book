@@ -19,3 +19,5 @@ may be opened and users cannot save blank address books.
 * Automatic formating email and phone number entries
 * Custom file extension and file manager
 
+## Screenshots
+![Address Book](http://richarddang.com/images/portfolio/address-book.gif)
